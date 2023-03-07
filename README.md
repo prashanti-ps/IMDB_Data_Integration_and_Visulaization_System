@@ -1,6 +1,8 @@
 # IMDB Data Integration and Visualization System
 
 This project is designed to demonstrate the data engineering process, from data ingestion and storage to data processing and analysis. It uses SQL and various data engineering tools to extract, transform, and load (ETL) data into a r4elational database. The oroject plan includes implementing an Analytica Data Architecture (ADA) for IMDb data. The plan includes loading data from various sources into staging tables using Alteryx and Talend, performing data profiling, integrating data into a dimensional model for consistency, and creating BI schemas for tailored analysis.
+https://www.boxofficemojo.com/
+
 
 ## Process-
 The implementation is divided into 2 parts-
